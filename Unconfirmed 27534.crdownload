@@ -1,0 +1,76 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[3]:
+
+
+print('Introduction In this notebook data science tools and ecosystem summerized and examination of details')
+    
+
+
+# In[4]:
+
+
+list of data science language
+1.Python
+2.SQL
+3.R Language
+
+
+# In[5]:
+
+
+list of data science library
+1.pandas
+2.numpy
+3.Scik-learn
+
+
+# In[12]:
+
+
+# import module
+from tabulate import tabulate
+
+# assign data
+mydata = [["nikhil","delhi"]]
+
+# create header 
+head = ["data science","library"]
+
+# display table
+print(tabulate(mydata, header=head, tablefmt="grid"))
+
+
+# In[13]:
+
+
+(3+4)
+
+
+# In[14]:
+
+
+(3*4)+5
+
+
+# In[16]:
+
+
+200/60
+
+
+# In[17]:
+
+
+Objectives:
+
+
+# # Author
+# praveen.AD
+
+# In[ ]:
+
+
+
+
